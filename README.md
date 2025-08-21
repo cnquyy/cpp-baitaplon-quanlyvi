@@ -179,7 +179,7 @@ Trần Ngô Vũ Minh         | Thiết kế giao diện quản lý (Manager); ph
 - Chạy lệnh sau để tải kho:
 
   ```bash
-  git clone https://github.com/vucongrox/laptrinh-ptit.git
+  git clone https://github.com/cnquyy/cpp-baitaplon-quanlyvi.git
 
 - chạy chương trình bằng [embarcadero C++/](https://www.embarcadero.com/free-tools/dev-cpp)
 - file mã nguồn:
